@@ -1,0 +1,35 @@
+2013-08-02 21:35:45,811 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TestCodeWars:JavaGameShell:0.0.1-SNAPSHOT @ C:\Code\Java\JavaCodeWars2\pom.xml.
+2013-08-02 21:35:46,787 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-08-02 21:35:46,787 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Code\Java\JavaCodeWars2\src\main\resources
+2013-08-02 21:35:46,789 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-08-02 21:35:46,789 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Code\Java\JavaCodeWars2\src\test\resources
+2013-08-02 21:35:47,358 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TestCodeWars:JavaGameShell:0.0.1-SNAPSHOT @ C:\Code\Java\JavaCodeWars2\pom.xml.
+2013-08-02 21:35:47,459 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TestCodeWars:JavaGameShell:0.0.1-SNAPSHOT @ C:\Code\Java\JavaCodeWars2\pom.xml.
+2013-08-02 21:35:47,933 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-08-02 21:35:47,934 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Code\Java\JavaCodeWars2\src\main\resources
+2013-08-02 21:35:47,935 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-08-02 21:35:47,935 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Code\Java\JavaCodeWars2\src\test\resources
+2013-08-02 21:36:04,835 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-08-02 21:36:04,835 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Code\Java\JavaCodeWars2\src\main\resources
+2013-08-02 21:36:04,836 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-08-02 21:36:04,837 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Code\Java\JavaCodeWars2\src\test\resources
+2013-08-02 21:39:02,012 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-08-02 21:39:02,013 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Code\Java\JavaCodeWars2\src\main\resources
+2013-08-02 21:39:02,014 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-08-02 21:39:02,014 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Code\Java\JavaCodeWars2\src\test\resources
+2013-08-02 21:39:07,558 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-08-02 21:39:07,558 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Code\Java\JavaCodeWars2\src\main\resources
+2013-08-02 21:39:07,560 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-08-02 21:39:07,560 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Code\Java\JavaCodeWars2\src\test\resources
+2013-08-02 21:39:31,018 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-08-02 21:39:31,019 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Code\Java\JavaCodeWars2\src\main\resources
+2013-08-02 21:39:31,021 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-08-02 21:39:31,021 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Code\Java\JavaCodeWars2\src\test\resources
+2013-08-02 22:10:39,540 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-08-02 22:10:39,541 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Code\Java\JavaCodeWars2\src\main\resources
+2013-08-02 22:10:39,542 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-08-02 22:10:39,542 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Code\Java\JavaCodeWars2\src\test\resources
+2013-08-02 22:11:16,899 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-08-02 22:11:16,899 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Code\Java\JavaCodeWars2\src\main\resources
+2013-08-02 22:11:16,900 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-08-02 22:11:16,900 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Code\Java\JavaCodeWars2\src\test\resources
